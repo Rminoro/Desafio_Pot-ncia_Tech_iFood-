@@ -1,4 +1,4 @@
-const nomeHeroi="Zhongli";
+const nomeHeroi="Hutao";
 const xp= 2500;
 
 
